@@ -1,0 +1,51 @@
+# ===== 敏感信息：绝对不要提交 =====
+# 这里放的是真实的 API Key 与用户个人数据，只存在于本地
+config/
+data/
+*.env
+.env
+.env.*
+
+# ===== 模型权重：体积大，由 scripts/download_models.py 下载 =====
+models/
+*.onnx
+*.onnx.json
+*.bin
+*.pt
+*.safetensors
+*.whl
+
+# ===== Python 编译产物 =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# ===== 虚拟环境 =====
+.venv/
+venv/
+env/
+ENV/
+
+# ===== 工具与编辑器 =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== 系统与临时文件 =====
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+
+# ===== 本地笔记 / 草稿（按需保留或删除这一节） =====
+# notes/
+# scratch/

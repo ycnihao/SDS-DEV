@@ -1,0 +1,12 @@
+faster-whisper
+huggingface_hub
+tokenizers
+onnxruntime
+av
+webrtcvad-wheels
+sounddevice
+soundfile
+numpy
+requests
+openai
+piper-tts
