@@ -6,7 +6,9 @@
 
 ![代码视频技术栈](./Intro/info.png)
 
-<video src="https://raw.githubusercontent.com/ycnihao/SDS-DEV/main/Intro/sds-dev.mp4" controls width="960" poster="./Intro/info.png"></video>
+<a href="https://github.com/ycnihao/SDS-DEV/raw/main/Intro/sds-dev.mp4">
+  <img src="./Intro/info.png" alt="代码生成的视频" style="width: 100%; max-width: 100%; height: auto;">
+</a>
 
 ---
 
