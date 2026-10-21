@@ -6,7 +6,7 @@
 
 ![代码视频技术栈](./Intro/info.png)
 
-<video src="https://github.com/user-attachments/assets/e04d1e33-45fc-4c4f-8d9e-2072a6669383" controls width="100%" height="auto" preload="metadata"></video>
+[![代码视频技术栈](./Intro/info.png)](https://github.com/user-attachments/assets/e04d1e33-45fc-4c4f-8d9e-2072a6669383)
 
 ---
 
