@@ -6,7 +6,7 @@
 
 ![代码视频技术栈](./Intro/info.png)
 
-<video src="https://github.com/user-attachments/assets/e04d1e33-45fc-4c4f-8d9e-2072a6669383" controls width="960" poster="./Intro/info.png"></video>
+<video src="https://github.com/ycnihao/SDS-DEV/issues/1#issuecomment-6307737720" controls width="960" poster="./Intro/info.png"></video>
 
 ---
 
